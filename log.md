@@ -18,3 +18,12 @@ freeCodeCamp i build a simple Jack London tribute page.
 **Thoughts:** Loved CSS animations!
 
 **Link to work:** [Survey Form](https://codepen.io/metinogurlu/pen/KKVJmYg)
+
+### Day 3: July 23, 2020
+
+**Today's Progress**: Write some CSS for Survey form.
+.
+
+**Thoughts:** It's looks like better now but its not enough!
+
+**Link to work:** [Survey Form](https://codepen.io/metinogurlu/pen/KKVJmYg)
