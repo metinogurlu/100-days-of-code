@@ -27,3 +27,11 @@ freeCodeCamp i build a simple Jack London tribute page.
 **Thoughts:** It's looks like better now but its not enough!
 
 **Link to work:** [Survey Form](https://codepen.io/metinogurlu/pen/KKVJmYg)
+
+### Day 4: July 24, 2020
+
+**Today's Progress**: Complated freeCodeCamp survey form and another module of "Responsive Web Design Certification".
+
+**Thoughts:** Looking forward to develop real projects 😌
+
+**Link to work:** [Survey Form](https://codepen.io/metinogurlu/pen/KKVJmYg)
