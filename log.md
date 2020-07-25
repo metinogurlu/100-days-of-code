@@ -35,3 +35,10 @@ freeCodeCamp i build a simple Jack London tribute page.
 **Thoughts:** Looking forward to develop real projects 😌
 
 **Link to work:** [Survey Form](https://codepen.io/metinogurlu/pen/KKVJmYg)
+
+### Day 5: July 25, 2020
+
+**Today's Progress**: Started to FCC: Product Landing Page
+
+**Thoughts:** Need to start working earlier :/
+
