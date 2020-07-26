@@ -42,3 +42,8 @@ freeCodeCamp i build a simple Jack London tribute page.
 
 **Thoughts:** Need to start working earlier :/
 
+### Day 6: July 26, 2020
+
+**Today's Progress**: Continued to my landing page
+
+**Thoughts:** Finally learned CSS Grid 🤟
