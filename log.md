@@ -47,3 +47,11 @@ freeCodeCamp i build a simple Jack London tribute page.
 **Today's Progress**: Continued to my landing page
 
 **Thoughts:** Finally learned CSS Grid 🤟
+
+### Day 7: July 27, 2020
+
+**Today's Progress**: Finished all sections of Responsive Web Design in FCC and continued 3/5 project
+
+**Thoughts:** Little bit confused about CSS Grid and Flexbox 🤟
+
+ 
