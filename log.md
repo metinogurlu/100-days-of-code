@@ -54,4 +54,10 @@ freeCodeCamp i build a simple Jack London tribute page.
 
 **Thoughts:** Little bit confused about CSS Grid and Flexbox 🤟
 
+### Day 8: July 28, 2020
+
+**Today's Progress**: Applied CSS Flexbox knowledge to a project. 
+
+**Thoughts:** But...🤔
+
  
