@@ -60,4 +60,11 @@ freeCodeCamp i build a simple Jack London tribute page.
 
 **Thoughts:** But...🤔
 
- 
+### Day 9: July 29, 2020
+
+**Today's Progress**: Finished product landing page finally.
+
+**Thoughts:** I feel more comfortable with Flexbox.
+
+**Link to work:** [Landing Page](https://codepen.io/metinogurlu/pen/qBbzqzN)
+
