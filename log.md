@@ -68,3 +68,8 @@ freeCodeCamp i build a simple Jack London tribute page.
 
 **Link to work:** [Landing Page](https://codepen.io/metinogurlu/pen/qBbzqzN)
 
+### Day 10: July 30, 2020
+
+**Today's Progress**: I started started to new reactjs-docs-like technical documentation page after doing some researches about CSS.
+
+**Thoughts:** I feel more comfortable with Responsive design.
