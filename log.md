@@ -73,3 +73,10 @@ freeCodeCamp i build a simple Jack London tribute page.
 **Today's Progress**: I started started to new reactjs-docs-like technical documentation page after doing some researches about CSS.
 
 **Thoughts:** I feel more comfortable with Responsive design.
+
+### Day 11: July 31, 2020
+
+**Today's Progress**: Add new sections and css on my documentation page project its looking better now 💪🏻
+
+**Thoughts:** It's looking clean and almost same as react's. I'm happy with this page :)
+
