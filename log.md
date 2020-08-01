@@ -80,3 +80,12 @@ freeCodeCamp i build a simple Jack London tribute page.
 
 **Thoughts:** It's looking clean and almost same as react's. I'm happy with this page :)
 
+### Day 12: August 1, 2020
+
+**Today's Progress**: Finished my reactjs-docs-like technical documentation page today
+
+**Thoughts:** My pages looking better day by day
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/metinogurlu/full/NWxQORd)
+
+
