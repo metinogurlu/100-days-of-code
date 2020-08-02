@@ -88,4 +88,10 @@ freeCodeCamp i build a simple Jack London tribute page.
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/metinogurlu/full/NWxQORd)
 
+### Day 13: August 2, 2020
+
+**Today's Progress**: Started to new personal portfolio page and new course from @freeCodeCamp 
+
+**Thoughts:** Feeling great but CSS display and layout options are still complicated
+
 
