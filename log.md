@@ -99,3 +99,9 @@ freeCodeCamp i build a simple Jack London tribute page.
 **Today's Progress**: Working on my new portfolio page & some sections of FCC
 
 **Thoughts:** Finally working on real project, I'm planning to work couple of days on this page.
+
+### Day 15: August 4, 2020
+
+**Today's Progress**: Add new 🤏🏻sections on my new portfolio page, worked with full-heigh pages & css flexbox 
+
+**Thoughts:** Need more time to work need more time to work need more time to work
