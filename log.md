@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 19: August 8, 2020
+
+**Today's Progress**: I re-checked deeply my js knowledge specially about objects and prototypes.
+
 ### Day 18: August 7, 2020
 
 **Today's Progress**: I finished my portfolio page which i built for my challenge works finally. Check out the Github repo!
