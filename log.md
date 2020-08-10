@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 21: August 10, 2020
+
+**Today's Progress**: Learned bootsrap today and reviewed the version 5.
+
+### Day 20: August 9, 2020
+
+**Today's Progress**: I passed this day off.
+
 ### Day 19: August 8, 2020
 
 **Today's Progress**: I re-checked deeply my js knowledge specially about objects and prototypes.
