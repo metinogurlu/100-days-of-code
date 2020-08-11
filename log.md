@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: August 11, 2020
+
+**Today's Progress**: Learned Sass today and finally ready to work with React.
+
+**Thoughts:** Feel to learn step by step and its time to use all of my frontend knowledge now.
+
 ### Day 21: August 10, 2020
 
 **Today's Progress**: Learned bootsrap today and reviewed the version 5.
