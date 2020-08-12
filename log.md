@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: August 12, 2020
+
+**Today's Progress**: Decided to create new weather app today. I picked a very cool design on dribble and I started with #reactjs and #nextjs to this project. I built layout for now
+
+**Thoughts:** Super excited for tomorrow 😍
+
 ### Day 22: August 11, 2020
 
 **Today's Progress**: Learned Sass today and finally ready to work with React.
