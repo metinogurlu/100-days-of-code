@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: August 13, 2020
+
+**Today's Progress**: Add bootstrap to my new weather app project and i tried to built my layout again with it.
+
+**Thoughts:** This project will be more challenging
+
 ### Day 23: August 12, 2020
 
 **Today's Progress**: Decided to create new weather app today. I picked a very cool design on dribble and I started with #reactjs and #nextjs to this project. I built layout for now
