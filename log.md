@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: August 14, 2020
+
+**Today's Progress**: My layout is ready and i added my first component of this weather app project
+
+**Thoughts:** This project will be more challenging
+
 ### Day 24: August 13, 2020
 
 **Today's Progress**: Add bootstrap to my new weather app project and i tried to built my layout again with it.
