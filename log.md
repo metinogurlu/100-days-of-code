@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: August 15, 2020
+
+**Today's Progress**: I added to scss support to my project and work on web page design on figma
+
+**Thoughts:** Component centric development its really cool but it's complicated sometimes for beginners like me. I think, figma is helping very well for this.
+
 ### Day 25: August 14, 2020
 
 **Today's Progress**: My layout is ready and i added my first component of this weather app project
