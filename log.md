@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 27, 28: August 16-17, 2020
+
+**Today's Progress**: Learned lots of things about #figma and designed some components of my weather app
+
+**Thoughts:** I'm falling in love figma day by day
+
 ### Day 26: August 15, 2020
 
 **Today's Progress**: I added to scss support to my project and work on web page design on figma
