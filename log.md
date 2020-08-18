@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 29: August 18, 2020
+
+**Today's Progress**: Worked more with components in #react and #figma today. I used CSS Modules with SCSS, SVG icons and CSS Grid.
+
 ### Day 27, 28: August 16-17, 2020
 
 **Today's Progress**: Learned lots of things about #figma and designed some components of my weather app
