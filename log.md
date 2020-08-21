@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 31, 32: August 20-21, 2020
+
+**Today's Progress**: Worked with city cards component. My weather forecast app with #react and #nextjs are growing day by day.
+
+**Thoughts**: I'm feeling to learning lots of technologies and so much motivated.
+
 ### Day 30: August 19, 2020
 
 **Today's Progress**: Built 2 new components today and started to thirth one 👌🏻
