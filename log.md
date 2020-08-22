@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 33: August 22, 2020
+
+**Today's Progress**: Add responsive bootstrap table as forecast table component. Next step I'll add all charts and icons as column values
+
 ### Day 31, 32: August 20-21, 2020
 
 **Today's Progress**: Worked with city cards component. My weather forecast app with #react and #nextjs are growing day by day.
