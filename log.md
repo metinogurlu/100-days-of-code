@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 34: August 23, 2020
+
+**Today's Progress**: I needed some weather icons for my #weather app which perfect fits to @OpenWeatherMap api then i found a super cool weather icon font > https://erikflowers.github.io/weather-icons I started to use it today but i still working on it
+
 ### Day 33: August 22, 2020
 
 **Today's Progress**: Add responsive bootstrap table as forecast table component. Next step I'll add all charts and icons as column values
