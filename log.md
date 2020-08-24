@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 35: August 24, 2020
+
+**Today's Progress**: Add new forecast table component today. Fetch data from open weather map api and integrate weather status codes with weather font. They're working perfect!
+
 ### Day 34: August 23, 2020
 
 **Today's Progress**: I needed some weather icons for my #weather app which perfect fits to @OpenWeatherMap api then i found a super cool weather icon font > https://erikflowers.github.io/weather-icons I started to use it today but i still working on it
