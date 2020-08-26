@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 36-37: August 25-26, 2020
+
+**Today's Progress**: Started to work with Chartjs & react-chartjs-2 add some custom styles and built component with mixed bar charts!
+
 ### Day 35: August 24, 2020
 
 **Today's Progress**: Add new forecast table component today. Fetch data from open weather map api and integrate weather status codes with weather font. They're working perfect!
