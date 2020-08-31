@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 40-42: August 29-31, 2020
+
+**Today's Progress**: Worked about lots of things like react routing, passport, webpack. Working on my own full-stack boilerplate.
+
+### Day 38-39: August 27-28, 2020
+
+**Today's Progress**: Tried to some of js boilerplates, worked with new libraries like passportjs, webpack. Everything going very well 😎
+
 ### Day 36-37: August 25-26, 2020
 
 **Today's Progress**: Started to work with Chartjs & react-chartjs-2 add some custom styles and built component with mixed bar charts!
