@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 46: September 4, 2020
+
+**Today's Progress**: Back to my weather app again. Its time to populate right hand side 
+
 ### Day 43-45: September 1-3, 2020
 
 **Today's Progress**: I built a cryptocurrency trading platform with node, express, react, bootstrap and mongodb. I used also some libraries like axios, bcryptjs, jsonwebtoken, passport, webpack. This was my first full-stack project in MERN stack.
