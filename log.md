@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43-45: September 1-3, 2020
+
+**Today's Progress**: I built a cryptocurrency trading platform with node, express, react, bootstrap and mongodb. I used also some libraries like axios, bcryptjs, jsonwebtoken, passport, webpack. This was my first full-stack project in MERN stack.
+
+**Thoughts:** These days was super tired and challenging for me but i learned so much things i feel at the next level after this project.
+
 ### Day 40-42: August 29-31, 2020
 
 **Today's Progress**: Worked about lots of things like react routing, passport, webpack. Working on my own full-stack boilerplate.
