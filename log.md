@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 47-49: September 5-7, 2020
+
+**Today's Progress**: I setup eslint with airbnb configuration and add a new Today component. I've last two components remaining.
+
 ### Day 46: September 4, 2020
 
 **Today's Progress**: Back to my weather app again. Its time to populate right hand side 
